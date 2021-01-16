@@ -11,3 +11,7 @@ python detect.py --weights ./runs/train/exp14/weights/best.pt --source ../yolov5
 best.pt:
 url:https://pan.baidu.com/s/12RpeU7FOQllzgkbnBc_Rrw
 psw:lnyo
+
+1.15updated(best1_15.pt)
+url：https://pan.baidu.com/s/17PBvGg1QqU7_ke4fhIob_w 
+psw：w06x 
